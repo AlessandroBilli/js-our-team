@@ -1,3 +1,5 @@
+'use strict'
+
 const team = [
     {
         Nome: 'Wayne',
