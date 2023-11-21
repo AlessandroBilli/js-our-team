@@ -39,5 +39,27 @@ const team = [
     }
 ];
 
-console.log(team);
 
+/*const teamContainer = document.getElementById('team-container');
+
+    team.forEach(member => {
+      const memberDiv = document.createElement('div');
+      memberDiv.classList.add('team-member');
+
+      const memberName = document.createElement('h2');
+      memberName.textContent = member.Nome;
+
+      const memberRole = document.createElement('p');
+      memberRole.textContent = member.Ruolo;
+
+      const memberImg = document.createElement('img');
+      memberImg.src = member.Img;
+      memberImg.alt = member.Nome;
+
+      memberDiv.appendChild(memberImg);
+      memberDiv.appendChild(memberName);
+      memberDiv.appendChild(memberRole);
+
+      teamContainer.appendChild(memberDiv);
+    });
+*/

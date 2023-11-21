@@ -8,10 +8,15 @@
 
 
 
-
-
-
-
-
-
 /* #endregion RESET*/
+
+.team-member {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+  }
+  .team-member img {
+    max-width: 100px;
+    border-radius: 50%;
+  }
