@@ -39,6 +39,7 @@ const team = [
     }
 ];
 
+console.log (team);
 
 /*const teamContainer = document.getElementById('team-container');
 
